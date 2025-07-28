@@ -1,0 +1,17 @@
+# crear proyecto en react javascript
+npm create vite@latest
+npm install
+npm run dev
+#dockerizar proyecto
+npm run build
+npm run preview
+# crear dockerfile
+npm run dockerfile
+# crear docker-compose.yml
+npm run docker-compose.yml
+# crear jenkinsfile
+npm run jenkinsfile
+# crear pipeline
+npm run pipeline
+# crear jenkins
+npm run jenkins
